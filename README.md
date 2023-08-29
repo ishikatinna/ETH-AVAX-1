@@ -19,7 +19,7 @@ The `StudentIDupdationsystem` is a basic Ethereum smart contract that allows the
 ### Contract Variables
 
 - `owner`: This is the address of the contract owner, set during contract deployment.
-- `StudentID`: A public unsigned integer variable initialized to 50, representing the stored ID.
+- `StudentID`: A public unsigned integer variable initialized to 5, representing the stored ID.
 
 ### Events
 
